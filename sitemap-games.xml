@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage - Highest Priority -->
+    <url>
+        <loc>https://kaka88bd.free.nf/</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Main Registration & Login Pages - Very High Priority -->
+    <url>
+        <loc>https://kaka88bd.free.nf/register</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/login</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Gaming Categories - High Priority -->
+    <url>
+        <loc>https://kaka88bd.free.nf/casino</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/slots</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/live-casino</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/sports</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/sports-betting</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Specific Sports Categories -->
+    <url>
+        <loc>https://kaka88bd.free.nf/cricket-betting</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/football-betting</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/tennis-betting</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/basketball-betting</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Casino Game Categories -->
+    <url>
+        <loc>https://kaka88bd.free.nf/casino/slots</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino/live</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino/blackjack</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino/roulette</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino/baccarat</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino/poker</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Game Providers -->
+    <url>
+        <loc>https://kaka88bd.free.nf/providers/jili</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/providers/pragmatic-play</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/providers/pg-soft</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/providers/playtech</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/providers/red-tiger</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/providers/spadegaming</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Promotions & Bonuses -->
+    <url>
+        <loc>https://kaka88bd.free.nf/bonuses</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/promotions</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/welcome-bonus</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/deposit-bonus</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/cashback-bonus</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/vip-program</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Payment Methods -->
+    <url>
+        <loc>https://kaka88bd.free.nf/payment-methods</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/deposit</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/withdrawal</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/bkash-deposit</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/nagad-deposit</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/rocket-deposit</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Mobile App -->
+    <url>
+        <loc>https://kaka88bd.free.nf/mobile-app</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/android-app</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/ios-app</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Help & Support -->
+    <url>
+        <loc>https://kaka88bd.free.nf/support</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/help</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/faq</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/live-chat</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/contact</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Legal & Information Pages -->
+    <url>
+        <loc>https://kaka88bd.free.nf/about</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/terms</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/privacy</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/responsible-gaming</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/license</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/security</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Game Guides & Tutorials -->
+    <url>
+        <loc>https://kaka88bd.free.nf/how-to-play</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/betting-guide</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino-guide</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/slots-guide</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- News & Blog -->
+    <url>
+        <loc>https://kaka88bd.free.nf/news</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/blog</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/sports-news</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/casino-news</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Tournaments & Events -->
+    <url>
+        <loc>https://kaka88bd.free.nf/tournaments</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/jackpots</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/leaderboard</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Account Management -->
+    <url>
+        <loc>https://kaka88bd.free.nf/dashboard</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/profile</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/account-verification</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/forgot-password</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <!-- Regional/Language Specific -->
+    <url>
+        <loc>https://kaka88bd.free.nf/bangladesh</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/bengali</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Special Features -->
+    <url>
+        <loc>https://kaka88bd.free.nf/live-streaming</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/statistics</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://kaka88bd.free.nf/results</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Error Pages (for completeness) -->
+    <url>
+        <loc>https://kaka88bd.free.nf/404</loc>
+        <lastmod>2025-01-31</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.1</priority>
+    </url>
+
+</urlset>

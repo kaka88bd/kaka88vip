@@ -1,0 +1,50 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kaka88bd.free.nf/sitemap.xml
+
+# Block sensitive areas
+Disallow: /admin/
+Disallow: /scripts/
+Disallow: /*.sql$
+Disallow: /*.php$
+Disallow: /error/
+Disallow: /dashboard/
+Disallow: /profile/
+
+# Allow important pages
+Allow: /register
+Allow: /login
+Allow: /casino
+Allow: /sports
+Allow: /images/
+Allow: /games/
+Allow: /bonuses
+Allow: /promotions
+
+# Crawl delay
+Crawl-delay: 1
+
+# Specific bot instructions
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 3
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://kaka88bd.free.nf</loc>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url> <loc>https://kaka88bd.free.nf/index.php</loc>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://kaka88bd.free.nf/register.php</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://kaka88bd.free.nf/login.php</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+   </url>
+</urlset>
